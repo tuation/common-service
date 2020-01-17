@@ -1,4 +1,4 @@
-package com.tuation.common.config;
+package com.tuition.common.config;
 
 import org.springframework.context.annotation.Configuration;
 

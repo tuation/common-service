@@ -1,4 +1,4 @@
-package com.tuation.common.dao;
+package com.tuition.common.dao;
 
 public interface CommonLookUpDao  {
 
